@@ -24,7 +24,7 @@ LEVELRANGE_VERSION  = "2.0.3";
 
 -- Details
 Details = {
-    name            = LEVELRANGE_NAME,
+    name            = "LevelRange-Turtle",
     version         = LEVELRANGE_VERSION,
     releaseDate     = "Feb 19, 2024",
     author          = "Bull3t, Tenyar97, rado-boy, blehz.",

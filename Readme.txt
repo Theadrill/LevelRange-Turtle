@@ -1,13 +1,14 @@
 --
--- LevelRange :: Readme
--- Copyright (c) 2006 Philip Hughes (Bull3t) 
--- http://bull3t.blogspot.com
--- 
+-- LevelRange :: Readme (Fork)
+--
+-- Fork: Fixed myAddOns registration error ("Error during the registration of LevelRange in myAddOns.")
+-- Original by Philip Hughes (Bull3t) / Tenyar97 / rado-boy / blehz.
+--
 
 ----------------------
 Details
 ----------------------
-Title: 	        LevelRange
+Title: 	        LevelRange-Turtle
 Interface:      11200
 Version:        2.0.3
 
